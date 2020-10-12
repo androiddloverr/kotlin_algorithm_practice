@@ -1,6 +1,7 @@
 /*
 📎 https://www.acmicpc.net/problem/9012 - 괄호
 📌 스택을 arrayList로 구현 - push = add / pop = removeAt
+📌 (를 스택에 넣다가 )를 만나면 stack에 맨 위에 있는 (를 하나 pop함
  */
 
 fun main() {
